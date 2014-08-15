@@ -1116,7 +1116,6 @@
 60;30;596;0
 61;30;287;0
 62;30;599;0
-72;30;519;333;descriptionEn=Here lies my body, my soul got lost along the way.;nameEn=Megildor;nameDe=Megildor;descriptionDe=Hier liegt mein Körper, meine Seele ging auf dem Weg verloren.
 75;30;287;0
 76;30;599;0
 76;30;598;0
