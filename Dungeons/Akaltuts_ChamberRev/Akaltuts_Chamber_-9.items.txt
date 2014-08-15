@@ -1065,7 +1065,7 @@
 61;29;287;0
 62;29;599;0
 67;29;627;333
-71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body. I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it. The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so sollte es nun auch meinem Körper gehen. Ich werde den Schatz, den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'gute' Seele. Das Grab ist ausgehoben. Ich muss mich nur noch reinlegen und das Gift trinken.
+71;29;2745;333;descriptionEn=Page 26. I can not leave, my soul was lost here and so should be my body. I am burying the treasure I found here with my body, hopefully some 'kind' soul will find it. The hole is dug... I just need to crawl in and drink the poison.;descriptionDe=Seite 26. Ich kann nicht gehen. Ich habe hier meine Seele verloren und so sollte es nun auch meinem Körper gehen. Ich werde den Schatz, den ich fand mit in mein Grab nehmen. Hoffentlich findet ihn irgend eine 'freundlich' Seele. Ich muss das Gift trinken.
 73;29;914;333
 75;29;287;0
 76;29;599;0
@@ -3546,7 +3546,6 @@
 57;94;36;0
 57;94;2039;0
 58;94;1103;0
-58;94;750;333;descriptionEn=In the picture can be seen a simple man holding a skull in one hand and a sign in the other, which reads, "North, south, east or west, which will you choose to pass the test? Do not fail for the cost is steep, however one holds the key you seek. Don't go even for they are all wrong, looking elsewhere will keep you strong. One from left or two from right, which will get the key tonight? Right is mighty and wrong is not, make a mistake and you'll find yourself lost.;descriptionDe=Das Bild zeigt einen einfachen Mann, welcher einen Schädel in der einen Hand hält und in der anderen ein Zeichen auf welchem steht: Norden, Süden, Osten oder Westen, welchen wählst du, um dich zu testen? Versage nicht, denn dies kostet dich viel, wenn auch einer hält den Schlüssel, der ist dein Ziel. Passt keiner, gehe nicht einmal, du musst es verstehen, Schaue anderswo, und du wirst es bestehen. Einer von Links oder von Rechts zwei, welcher hat den Schlüssel, wer ist noch dabei? Rechts ist mächtig und falsch ist es nichtig, versage und du wirst dich verlieren, dies allein ist richtig.
 59;94;1103;0
 59;94;36;0
 59;94;2039;0
@@ -3557,6 +3556,7 @@
 61;94;1124;0
 62;94;1116;0
 62;94;36;0
+62;94;3110;333
 63;94;1103;333
 64;94;1103;333
 64;94;630;333
@@ -4523,7 +4523,7 @@
 1;114;1101;333
 4;114;213;333
 5;114;664;333
-5;114;2745;333;descriptionEn=Page 15. After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger. I feel funny now. I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht, fielen wir übers Essen her, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Schlussendlich liess unser Hunger nach. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder ob etwas Ungutes bei der Zubereitung der Speisen benutzt wurde.
+5;114;2745;333;descriptionEn=Page 15. After a fierce battle, we fell onto the food, eating as if we had not fed in days at last slaking our hunger. I feel funny now. I wonder if I ate too much or something strange was used in the making of the items.;descriptionDe=Seite 15. Nach einer erbitterten Schlacht, stürzten uns darauf, als wären wir Tage lang nicht gefüttert worden. Jetzt fühle ich mich komisch. Ich wundere mich, ob ich zu viel gegessen habe oder ob etwas Ungutes bei der Speisen benutzt wurde.
 6;114;215;333
 10;114;665;333
 10;114;163;333
