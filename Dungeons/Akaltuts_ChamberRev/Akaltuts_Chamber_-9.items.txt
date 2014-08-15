@@ -3121,7 +3121,7 @@
 52;84;1792;333
 57;84;1782;333
 60;84;1783;333
-69;84;2745;333;descriptionEn=Page 17. The guardians are intriguing. What form of magic do they have to give undead intelligence?;descriptionDe=Seite 17. Die Wächter sind faszinierend. Welche Form der Magie haben sie, um Statuen so zu verzaubern?
+69;84;2745;333;descriptionEn=Page 17. The Defensors are intriguing. What form of magic do they have to give undead intelligence?;descriptionDe=Seite 17. Die Defensors sind faszinierend. Welche Form der Magie haben sie, um Statuen so zu verzaubern?
 71;84;1102;333
 71;84;1123;333
 72;84;287;333
