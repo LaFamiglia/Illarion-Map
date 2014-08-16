@@ -802,7 +802,7 @@
 11;23;2553;333
 15;23;320;333
 15;23;2554;333
-19;23;2745;333;descriptionEn=Page 22. I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me. I am feeling a strange sort of kinship to the worshippers.;descriptionDe=Seite 22. Ich sollte empört sein, über dass was ich hier finde. Aber nach dem, was ich Horace angetan habe, ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandschaft zu den Götzendienern.
+19;23;2745;333;descriptionEn=Page 22. I should feel outraged at what I find in here, yet after what I did to Horace I do not have it in me. I am feeling a strange sort of kinship to the worshippers.;descriptionDe=Seite 22. Ich sollte empört sein, über dass was ich hier finde. Aber nach dem, was ich Horace angetan habe, ist da nichts mehr. Ich fühle eine seltsame Art der Seelenverwandtschaft zu den Götzendienern.
 21;23;1106;0
 34;23;627;0
 35;23;627;0
@@ -937,7 +937,7 @@
 2;27;2805;333
 2;27;359;333
 4;27;320;333
-4;27;463;577;descriptionEn=The tip of the quill is red and has a faint metallic smell.  It has been used to write with blood.;descriptionDe=Die Spitzen der Feder sind rot und haben einen leicht metallischen Geschmack. Sie wurde zum Schreiben in Blut getunkt.
+4;27;463;577;descriptionEn=The tip of the quill is red and has a faint metallic smell. It has been used to write with blood.;descriptionDe=Die Spitzen der Feder sind rot und haben einen leicht metallischen Geschmack. Sie wurde zum Schreiben in Blut getunkt.
 5;27;3101;333
 10;27;320;333
 10;27;3109;333;descriptionEn=The writing is red and distinguishable part reads, "Enchanting Slaves".;descriptionDe=Die Schrift ist rot und auf dem lesbaren Teil erkennt man die Worte: "Sklaven verzaubern".
