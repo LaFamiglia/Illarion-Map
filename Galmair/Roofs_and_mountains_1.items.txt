@@ -11429,7 +11429,6 @@
 32;295;287;333
 33;295;287;333
 40;295;913;333
-42;295;3263;333
 149;295;911;333
 151;295;1783;333
 152;295;629;333
@@ -11524,7 +11523,6 @@
 31;297;287;333
 32;297;287;333
 33;297;287;333
-42;297;3262;333
 155;297;629;333
 156;297;630;333
 157;297;287;333
@@ -11571,7 +11569,6 @@
 32;298;287;333
 33;298;287;333
 40;298;3262;333
-42;298;3262;333
 156;298;623;333
 157;298;287;333
 158;298;287;333
@@ -13648,7 +13645,7 @@
 145;343;1783;0
 147;343;433;0
 147;343;1265;0
-227;343;2926;333;descriptionDe=Dies scheinen die sterblichen Überreste einer Elfin zu sein.;descriptionEn=The post has a skull painted on it in dark red colors that has a disturbing resemblance to blood.
+227;343;2926;333;descriptionEn=The post has a skull painted on it in dark red colors that has a disturbing resemblance to blood.;descriptionDe=Auf den Pfahl ist mit dunkelroter Farbe, die eine beunruhigende Ähnlichkeit mit Blut hat, ein Totenkopf aufgemalt.
 228;343;1797;333
 233;343;623;333
 234;343;287;333
@@ -13743,7 +13740,6 @@
 145;346;3262;0
 147;346;433;0
 226;346;1276;333
-227;346;2926;333
 228;346;1795;333
 229;346;1794;333
 230;346;1783;333
